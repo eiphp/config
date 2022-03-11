@@ -1,4 +1,4 @@
-package metro
+package config
 
 import (
 	"bytes"
